@@ -1,6 +1,6 @@
 # 视频编辑器（Video Editor）
 
-基于 **Python tkinter 图形界面** + **FFmpeg/FFprobe** 后端的视频编辑工具，无需安装额外 Python 第三方库（仅使用标准库）。
+基于 **Python tkinter 图形界面** + **FFmpeg/FFprobe** 后端的视频编辑工具，无需安装额外 Python 第三方库（仅使用标准库），由deepseek纯ai编写
 
 ## ✨ 功能
 
